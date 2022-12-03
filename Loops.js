@@ -9,7 +9,7 @@ const array = [3,5,7,9]
 const DobleArray=[[1,2],[2,3]]
 
 // WHILE
-hola:
+/* hola:
 while (count < 5) {
     console.log(count);
     count++;
@@ -18,7 +18,7 @@ while (count <10) {
     console.log(count);
     hola : break;
     
-}
+} */
 
 
 // DO WHILE
